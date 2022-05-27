@@ -28,7 +28,7 @@
     "heroku-postbuild": "npm run build"
   },
   "engines": {
-    "node":"16.14.2",
+    "node":"16.x",
     "npm":"8.5.0"
   },
   "eslintConfig": {
